@@ -24,3 +24,6 @@ products = [
 
 #print all products
 print(products)
+
+#print number of products
+print('number of products: ' + str(len(products)))
